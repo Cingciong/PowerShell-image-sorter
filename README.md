@@ -9,7 +9,7 @@ the script will automatically create one and then move the images into the corre
 
 Simply place the script in the folder you wish to sort. Keep in mind that the script will sort the entire folder, including all its subfolders.
 When you're ready, open the terminal, navigate to the directory where the script is located, and type: './sort.ps1'.
-You'll then be prompted to select the folder you'd like to sort—it's.
+You'll then be prompted to select the folder you'd like to sort.
 If you want to exclude any folder from being sorted, just add "(not)" wherever to its name, and the script will skip sorting images in that folder.
 
 # How does it work?
