@@ -1,6 +1,6 @@
 # What does it do?
 
-Create a PowerShell script that scans directories for folders containing images.
+A PowerShell script that scans directories for folders containing images.
 The script should allow you to sort the images within each folder by their modification date.
 If a folder corresponding to the modification date doesn't exist,
 the script will automatically create one and then move the images into the correct folder.
